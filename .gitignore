@@ -1,0 +1,5 @@
+# Ignore env and Python cache
+.env
+__pycache__/
+*.pyc
+data.db
